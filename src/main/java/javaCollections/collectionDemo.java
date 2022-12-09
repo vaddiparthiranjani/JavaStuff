@@ -27,4 +27,5 @@ public class collectionDemo {
     System.out.println(fruit);
     }
 
+
 }
